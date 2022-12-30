@@ -53,27 +53,27 @@ DESCRIÇÃO DO QUE FOI IMPLEMENTADO:
 - Laravel 8.83.9;
 - JWT-AUTH 1.0.2 (Tokem para autenticação do Usuário);
 
-** 1. Qualidade das regras de negócio**<br>
+**1. Qualidade das regras de negócio**<br>
 
 Desenvolva as regras de negócio do escopo de forma clara, mas se puder, não se atenha somente a elas. Nem tudo que é necessário para dar vida a um projeto está especificado neste escopo, então é importante que você demonstre a sua habilidade e capacidade de análise para entender e desenvolver regras de negócio que possam agregar valor ao projeto. Como por exemplo: Autocompletar dos campos de endereço através de integração com API de CEP dos Correios;<br>
 
-** 2. Quantidade de itens do escopo programados**<br>
+**2. Quantidade de itens do escopo programados**<br>
 
 Caso não seja possível programar todos os itens do escopo, ou todas as regras de negócio, faça o máximo que puder na maior qualidade possível.<br>
 
-** 3. Generalização do código**<br>
+**3. Generalização do código**<br>
 
 Lembre que a Velty desenvolve soluções para várias startups diferentes, então, quanto mais o código desenvolvido puder ser reutilizado em outros projetos, melhor.<br>
 
-** 4. Qualidade do código (documentação, objetividade, redundância, organização, etc)** <br>
+**4. Qualidade do código (documentação, objetividade, redundância, organização, etc)** <br>
 
 Você irá trabalhar com vários outros projetos e profissionais, portanto, o seu código deve ser de qualidade para que outros técnicos possam dar não só manutenção, mas também evoluí-lo da melhor forma possível.<br>
 
-** 5. Tempo para finalização da tarefa** <br>
+**5. Tempo para finalização da tarefa** <br>
 
 O tempo é fundamental para qualquer projeto, e neste teste ele será o último critério a ser avaliado. Ele será o fator de desempate final, caso você obtenha uma nota similar a outro candidato.<br>
 
-** DESCRITIVO DA NECESSIDADE** <br>
+**DESCRITIVO DA NECESSIDADE** <br>
 
 A startup XYZ deseja revolucionar o mercado de coworking e oferecer uma experiência totalmente digital e pay per use, cobrando somente pelos MINUTOS utilizados em cada espaço.<br>
 
@@ -87,7 +87,7 @@ A API é o alvo deste teste e ela deverá ser desenvolvida utilizando as seguint
 
 **ITENS NECESSÁRIOS**
 
-** 1. Módulo de clientes**<br>
+**1. Módulo de clientes**<br>
 Campos:
 1. Razão social
 2. Nome fantasia
